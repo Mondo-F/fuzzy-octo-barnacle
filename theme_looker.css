@@ -31,6 +31,8 @@
   border: 0px;
   border-collapse: collapse;
   table-layout: auto;
+  width: 300px; /* テーブルの幅を固定 */
+  height: 150px; /* テーブルの高さを固定 */
 }
 
 .focus {
