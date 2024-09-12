@@ -10,8 +10,8 @@
 
 #tooltip {
     position: absolute;
-    width: 200;
-    height: 100;
+    width: 500;
+    height: 300;
     padding: 5px;
     background-color: white;
     -webkit-border-radius: 4px;
