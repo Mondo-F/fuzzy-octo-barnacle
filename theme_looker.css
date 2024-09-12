@@ -10,7 +10,7 @@
 
 #tooltip {
     position: absolute;
-    width: 150px;
+    width: 200px;
     height: 50px;
     padding: 5px;
     background-color: white;
@@ -31,8 +31,8 @@
   border: 0px;
   border-collapse: collapse;
   table-layout: auto;
-  width: 300px; /* テーブルの幅を固定 */
-  height: 150px; /* テーブルの高さを固定 */
+  width: 200px; /* テーブルの幅を固定 */
+  height: 50px; /* テーブルの高さを固定 */
 }
 
 .focus {
