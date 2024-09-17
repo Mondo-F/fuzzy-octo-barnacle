@@ -57,7 +57,7 @@
 
 th.headerCell {
   background-color: #ccd8e4;
-  padding: 25px;
+  padding: 8px;
   border-bottom: 1px solid #BDC3C7;
 }
 
@@ -73,6 +73,7 @@ th.headerCell {
 
 .headerCell.measure {
   background-color: #e4d0bd;
+  padding: 8px;
   border-left: 1px solid #BDC3C7;
 }
 
