@@ -73,11 +73,7 @@ th.headerCell {
 
 .headerCell.measure {
   background-color: #e4d0bd;
-  border-left: 1px solid #BDC3C7;
-  transform: rotate(90deg); /* テキストを90度回転 */
-  white-space: nowrap; /* テキストを折り返さない */
-  text-align: center; /* テキストを中央揃え */
-  vertical-align: middle; /* 縦方向の中央揃え */
+  border-left: 10px solid #BDC3C7;
 }
 
 
