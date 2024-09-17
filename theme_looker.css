@@ -75,6 +75,7 @@ th.headerCell {
   background-color: #e4d0bd;
   padding: 7px;
   border-left: 1px solid #BDC3C7;
+  white-space: nowrap;
 }
 
 
