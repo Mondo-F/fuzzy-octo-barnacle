@@ -77,7 +77,6 @@ th.headerCell {
   border-left: 1px solid #BDC3C7;
   white-space: nowrap;
   text-align: left; /* 左寄せ */
-  vertical-align: middle; /* 垂直方向に中央揃え */
 }
 
 
