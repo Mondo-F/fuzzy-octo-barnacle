@@ -76,9 +76,10 @@ th.headerCell {
   padding: 4px;
   border-left: 1px solid #BDC3C7;
   white-space: nowrap;
-  text-align: center;
+  text-align: left; /* 左寄せ */
   vertical-align: middle; /* 垂直方向に中央揃え */
 }
+
 
 .headerCell.measure.calculation {
   background-color: #c9dfc5;
