@@ -72,7 +72,6 @@ th.headerCell {
 }
 
 .headerCell.measure {
-  display: flex;                  /* フレックスボックスを適用 */
   justify-content: center;        /* 水平方向に中央揃え */
   align-items: center;            /* 垂直方向に中央揃え */
   background-color: #e4d0bd;
