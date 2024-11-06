@@ -65,7 +65,8 @@
 
 .headerCell.dimension {
   background-color: #e4ecf3;
-  border-right: 1px solid #BDC3C7; 
+  border-right: 1px solid #BDC3C7;
+  font-size: 16px; /* 文字サイズを指定 */
 }
 
 .headerCell.pivot {
