@@ -125,6 +125,16 @@ th.headerCell {
   background-color: #ffffff !important;
 }
 
+.rowCell.negative {
+  color: red; /* マイナス値を赤に設定 */
+  position: relative;
+}
+
+.rowCell.negative::before {
+  content: "▲";  /* 「▲」を表示 */
+  margin-right: 3px;
+}
+
 .indexCell.transposed {
   font-weight: bold;
 }
