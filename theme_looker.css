@@ -72,12 +72,13 @@ th.headerCell {
 }
 
 .headerCell.measure {
+  display: flex;                  /* フレックスボックスを適用 */
+  justify-content: center;        /* 水平方向に中央揃え */
+  align-items: center;            /* 垂直方向に中央揃え */
   background-color: #e4d0bd;
   padding: 7px;
   border-left: 1px solid #BDC3C7;
   white-space: nowrap;
-  text-align: center;      /* 水平方向の中央揃え */
-  vertical-align: middle;  /* 垂直方向の中央揃え */
 }
 
 
