@@ -162,7 +162,7 @@ th.headerCell {
 }
 
 .nonNumeric {
-  text-align: left;
+  text-align: center; /* 水平方向に中央揃え */
 }
 
 .numeric {
