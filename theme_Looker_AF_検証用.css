@@ -121,12 +121,13 @@ th.headerCell {
   vertical-align: super;
   padding-left: 5px;
   border-bottom: 1px solid #BDC3C7; 
+  color: red; /* マイナス値を赤に設定 */
+  position: relative; /* 疑似要素の配置のために必要 */
 }
 
 .rowCell.merged {
   background-color: #ffffff;
-  color: red; /* マイナス値を赤に設定 */
-  position: relative; /* 疑似要素の配置のために必要 */
+ 
 }
 
 .indexCell.transposed {
