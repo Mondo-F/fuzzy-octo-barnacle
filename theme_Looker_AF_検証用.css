@@ -64,8 +64,8 @@ th.headerCell {
 .headerCell.dimension {
   background-color: #e4ecf3;
   border-right: 1px solid #BDC3C7;
-  font-size: 16px; /* 文字サイズを指定 */
-  padding: 30px;
+  font-size: 20px; /* 文字サイズを指定 */
+  padding: 7px;
   white-space: nowrap;
   text-align: center;       /* 水平方向の中央揃え */
   vertical-align: middle;   /* 垂直方向の中央揃え */
