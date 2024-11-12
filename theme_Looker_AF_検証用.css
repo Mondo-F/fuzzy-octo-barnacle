@@ -124,20 +124,9 @@ th.headerCell {
 }
 
 .rowCell.merged {
-  background-color: #ffffff ;
-}
-
-.rowCell.negative {
+  background-color: #ffffff;
   color: red; /* マイナス値を赤に設定 */
   position: relative; /* 疑似要素の配置のために必要 */
-}
-
-.rowCell.negative::before {
-  content: "▲"; /* 「▲」を表示 */
-  margin-right: 3px;
-  display: inline-block; /* インライン要素として配置 */
-  position: absolute; /* 確実にテキストの前に表示 */
-  left: 0; /* セルの左端に配置 */
 }
 
 .indexCell.transposed {
