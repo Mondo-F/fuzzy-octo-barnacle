@@ -106,7 +106,7 @@ th.headerCell {
   background-color: #ccd8e4; /* 背景色を設定 */
   border-right: 1px solid #BDC3C7; /* 右側のボーダーを設定 */
   text-align: center; /* 文字を水平方向に中央揃え */
-  vertical-align: top; /* 文字を垂直方向で上部に配置 */
+  vertical-align: top !important; /* 文字を垂直方向で上部に配置 */
   padding: 8px; /* セルの内側に余白を追加 */
 }
 
