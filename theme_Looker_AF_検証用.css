@@ -102,10 +102,13 @@ th.headerCell {
   background-color: #e4ecf3 !important;
 }
 
-/* .headerCell.dimension.headerRow {
+.headerCell.dimension.headerRow {
   background-color: #ccd8e4;
   border-right: 1px solid #BDC3C7;
+  text-align: center;      /* 水平方向に中央揃え */
+  vertical-align: middle;  /* 垂直方向に中央揃え */
 }
+
 
 .headerCell.pivot.headerRow {
   background-color: #ccd8e4;
