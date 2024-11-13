@@ -67,7 +67,7 @@ th.headerCell {
   background-color: #e4ecf3;
   border-right: 1px solid #BDC3C7;
   font-size: 20px; /* 文字サイズを指定 */
-  padding: 10px;
+  padding: 20px;
   white-space: nowrap;
   text-align: center;       /* 水平方向の中央揃え */
   vertical-align: middle;   /* 垂直方向の中央揃え */
@@ -102,12 +102,12 @@ th.headerCell {
   background-color: #e4ecf3 !important;
 }
 
- .headerCell.dimension.headerRow {
+/* .headerCell.dimension.headerRow {
   background-color: #ccd8e4;
   border-right: 1px solid #BDC3C7;
   padding-left: 5px; /* セルの内側に余白を追加 */
   padding-right: 5px;
-}
+}*/
 
 /*.headerCell.pivot.headerRow {
   background-color: #ccd8e4;
@@ -122,6 +122,7 @@ th.headerCell {
 .rowCell {
   vertical-align: super;
   padding-left: 5px;
+  padding-right: 5px;
   border-bottom: 1px solid #BDC3C7; 
 }
 
