@@ -102,12 +102,13 @@ th.headerCell {
   background-color: #e4ecf3 !important;
 }
 
-/* .headerCell.dimension.headerRow {
+ .headerCell.dimension.headerRow {
   background-color: #ccd8e4;
   border-right: 1px solid #BDC3C7;
+  padding-left: 5px; /* セルの内側に余白を追加 */
 }
 
-.headerCell.pivot.headerRow {
+/*.headerCell.pivot.headerRow {
   background-color: #ccd8e4;
   border-right: 1px solid #BDC3C7;
 }
