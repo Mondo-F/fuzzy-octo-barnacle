@@ -106,6 +106,7 @@ th.headerCell {
   background-color: #ccd8e4;
   border-right: 1px solid #BDC3C7;
   padding-left: 5px; /* セルの内側に余白を追加 */
+  padding-right: 5px;
 }
 
 /*.headerCell.pivot.headerRow {
