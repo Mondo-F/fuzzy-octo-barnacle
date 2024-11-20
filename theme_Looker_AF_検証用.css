@@ -59,6 +59,9 @@ th.headerCell {
   background-color: #ccd8e4;
   padding: 8px;
   border-bottom: 1px solid #BDC3C7;
+  justify-content: center;        /* 水平方向に中央揃え */
+  align-items: center;            /* 垂直方向に中央揃え */
+  white-space: nowrap;
 }
 
 .headerCell.dimension {
