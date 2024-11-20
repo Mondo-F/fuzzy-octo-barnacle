@@ -59,6 +59,8 @@ th.headerCell {
   background-color: #ccd8e4;
   padding: 10px; /* セル内の余白を調整 */
   border-bottom: 1px solid #BDC3C7;
+  justify-content: center;        /* 水平方向に中央揃え */
+  align-items: center;            /* 垂直方向に中央揃え */
 }
 
 .headerCell.dimension {
@@ -81,7 +83,7 @@ th.headerCell {
   background-color: #e4d0bd;
   padding: 7px;
   border-left: 1px solid #BDC3C7;
- 
+  white-space: nowrap;
 }
 
 
